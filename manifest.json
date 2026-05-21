@@ -1,0 +1,21 @@
+{
+  "name": "Polyrhythm Visualizer",
+  "short_name": "Polyrhythm",
+  "description": "Mesmerizing real-time polyrhythm animations in your browser",
+  "start_url": "/polyrhythm/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='48' fill='%230a0a0f' stroke='%236c5ce7' stroke-width='4'/%3E%3Ccircle cx='50' cy='30' r='6' fill='%236c5ce7'/%3E%3Ccircle cx='70' cy='50' r='6' fill='%23fd79a8'/%3E%3Ccircle cx='30' cy='50' r='6' fill='%2300b894'/%3E%3Ccircle cx='50' cy='70' r='6' fill='%23fdcb6e'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='48' fill='%230a0a0f' stroke='%236c5ce7' stroke-width='4'/%3E%3Ccircle cx='50' cy='30' r='6' fill='%236c5ce7'/%3E%3Ccircle cx='70' cy='50' r='6' fill='%23fd79a8'/%3E%3Ccircle cx='30' cy='50' r='6' fill='%2300b894'/%3E%3Ccircle cx='50' cy='70' r='6' fill='%23fdcb6e'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
