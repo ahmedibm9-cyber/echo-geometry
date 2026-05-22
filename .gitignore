@@ -20,5 +20,4 @@ build/
 node_modules/
 package-lock.json
 
-# GitHub Actions (PAT lacks workflow scope)
-.github/workflows/
+
